@@ -1,0 +1,41 @@
+PassengerId;Survived;Pclass;Name;Sex;Age;SibSp;Parch;Ticket;Fare;Cabin;Embarked;AgeGroup;PriceGroup;TEmbarked
+660;0;1;Newell, Mr. Arthur Webster;1;58;0;2;35273;113;D48;C;Adult;30;2
+661;1;1;Frauenthal, Dr. Henry William;1;50;2;0;PC 17611;134;;S;Adult;30;1
+662;0;3;Badt, Mr. Mohamed;1;40;0;0;2623;7;;C;Adult;<10;2
+663;0;1;Colley, Mr. Edward Pomeroy;1;47;0;0;5727;26;E58;S;Adult;10<30;1
+664;0;3;Coleff, Mr. Peju;1;36;0;0;349210;7;;S;Adult;<10;1
+665;1;3;Lindqvist, Mr. Eino William;1;20;1;0;STON/O 2. 3101285;8;;S;Adult;<10;1
+666;0;2;Hickman, Mr. Lewis;1;32;2;0;S.O.C. 14879;74;;S;Adult;30;1
+667;0;2;Butler, Mr. Reginald Fenton;1;25;0;0;234686;13;;S;Adult;10<30;1
+668;0;3;Rommetvedt, Mr. Knud Paust;1;;0;0;312993;8;;S;Children;<10;1
+669;0;3;Cook, Mr. Jacob;1;43;0;0;A/5 3536;8;;S;Adult;<10;1
+670;1;1;Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright);0;;1;0;19996;52;C126;S;Children;30;1
+671;1;2;Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford);0;40;1;1;29750;39;;S;Adult;30;1
+672;0;1;Davidson, Mr. Thornton;1;31;1;0;F.C. 12750;52;B71;S;Adult;30;1
+673;0;2;Mitchell, Mr. Henry Michael;1;70;0;0;C.A. 24580;11;;S;Adult;10<30;1
+674;1;2;Wilhelms, Mr. Charles;1;31;0;0;244270;13;;S;Adult;10<30;1
+675;0;2;Watson, Mr. Ennis Hastings;1;;0;0;239856;0;;S;Children;<10;1
+676;0;3;Edvardsson, Mr. Gustaf Hjalmar;1;18;0;0;349912;8;;S;Children;<10;1
+677;0;3;Sawyer, Mr. Frederick Charles;1;24.5;0;0;342826;8;;S;Adult;<10;1
+678;1;3;Turja, Miss. Anna Sofia;0;18;0;0;4138;10;;S;Children;<10;1
+679;0;3;Goodwin, Mrs. Frederick (Augusta Tyler);0;43;1;6;CA 2144;47;;S;Adult;30;1
+680;1;1;Cardeza, Mr. Thomas Drake Martinez;1;36;0;1;PC 17755;512;B51 B53 B55;C;Adult;30;2
+681;0;3;Peters, Miss. Katie;0;;0;0;330935;8;;Q;Children;<10;3
+682;1;1;Hassab, Mr. Hammad;1;27;0;0;PC 17572;77;D49;C;Adult;30;2
+683;0;3;Olsvigen, Mr. Thor Anderson;1;20;0;0;6563;9;;S;Adult;<10;1
+684;0;3;Goodwin, Mr. Charles Edward;1;14;5;2;CA 2144;47;;S;Children;30;1
+685;0;2;Brown, Mr. Thomas William Solomon;1;60;1;1;29750;39;;S;Adult;30;1
+686;0;2;Laroche, Mr. Joseph Philippe Lemercier;1;25;1;2;SC/Paris 2123;42;;C;Adult;30;2
+687;0;3;Panula, Mr. Jaako Arnold;1;14;4;1;3101295;40;;S;Children;30;1
+688;0;3;Dakic, Mr. Branko;1;19;0;0;349228;10;;S;Adult;10<30;1
+689;0;3;Fischer, Mr. Eberhard Thelander;1;18;0;0;350036;8;;S;Children;<10;1
+690;1;1;Madill, Miss. Georgette Alexandra;0;15;0;1;24160;211;B5;S;Children;30;1
+691;1;1;Dick, Mr. Albert Adrian;1;31;1;0;17474;57;B20;S;Adult;30;1
+692;1;3;Karun, Miss. Manca;0;4;0;1;349256;13;;C;Children;10<30;2
+693;1;3;Lam, Mr. Ali;1;;0;0;1601;56;;S;Children;30;1
+694;0;3;Saad, Mr. Khalil;1;25;0;0;2672;7;;C;Adult;<10;2
+695;0;1;Weir, Col. John;1;60;0;0;113800;27;;S;Adult;10<30;1
+696;0;2;Chapman, Mr. Charles Henry;1;52;0;0;248731;14;;S;Adult;10<30;1
+697;0;3;Kelly, Mr. James;1;44;0;0;363592;8;;S;Adult;<10;1
+698;1;3;"Mullens, Miss. Katherine ""Katie""";0;;0;0;35852;8;;Q;Children;<10;3
+699;0;1;Thayer, Mr. John Borland;1;49;1;1;17421;111;C68;C;Adult;30;2
